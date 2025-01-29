@@ -6,7 +6,7 @@
   <a href="https://instagram.com/rana_ahmad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">I'm a JavaScript developer, coding to bring websites to life. With every keystroke, I'm adding interactivity and functionality that users can see and feel. Whether it's making buttons change color or building complex features, JavaScript is my toolkit for creating awesome web experiences.</p>
+<p align="center">I'm a Software Engineer, crafting innovative and scalable solutions through code. With every line I write, I enhance functionality, optimize performance, and create seamless user experiences. Whether it's developing robust backend systems, designing intuitive frontends, or integrating complex features, I leverage technology to build impactful and efficient software solutions.</p>
 
 - 👨‍💻 All of my projects are available at [My GitHub Portfolio](https://github.com/Rana-Ahmad-Hassan)
 
