@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm RANA AHMAD</h1>
-<h3 align="center">MERN STACK DEV | Bringing Websites to Life</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
   <a href="https://github.com/Rana-Ahmad-Hassan"><img src="https://img.shields.io/github/followers/Rana-Ahmad-Hassan?label=Follow&style=social" alt="GitHub"></a>
   <a href="https://fb.com/rana-ahmad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
