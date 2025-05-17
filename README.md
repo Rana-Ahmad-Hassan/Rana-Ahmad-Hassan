@@ -24,14 +24,7 @@ I work with a diverse set of tools and technologies to build high-quality softwa
 
 Languages: JavaScript, TypeScript, C++, Python, HTML5, CSS3Frameworks & Libraries: React, Node.js, Express, Bootstrap, Tailwind CSSDatabases: MongoDB, PostgreSQLTools & Platforms: Git, Docker, AWS, Azure, Figma, VS Code
 
-🌟 Featured Projects
-Here are some of my favorite projects that showcase my skills and creativity:
 
-Auth-FastAPIA secure, scalable authentication system built with FastAPI, SQLite, and JWT. Features async database operations and AI-driven grammar correction.Tech: FastAPI, SQLite, JWT, Azure AI Inference
-
-React-PortfolioA dynamic personal portfolio website with smooth animations and responsive design, built with React and Tailwind CSS.Tech: React, Tailwind CSS, Vercel
-
-Real-Time Chat AppA real-time messaging application using Node.js, Express, and MongoDB, with WebSocket for instant communication.Tech: Node.js, Express, MongoDB, Socket.IO
 
 
 👉 Explore more on My GitHub
